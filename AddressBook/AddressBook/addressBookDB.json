@@ -1,0 +1,48 @@
+﻿{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "Shivaraj",
+      "lastname": "Gowda",
+      "phoneNo": "8618199771",
+      "address": "Basaveshwarnagar",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560079",
+      "email": "4shivaraj.gowda@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "Cheluvesha",
+      "lastname": "Bettaswamy",
+      "phoneNo": "9044567887",
+      "address": "Chinnaswamy",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "354676",
+      "email": "cb97@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstname": "Hema",
+      "lastname": "Latha",
+      "phoneNo": "8754457887",
+      "address": "Chidambaram",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "zip": "998765",
+      "email": "hema@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstname": "Deepak",
+      "lastname": "Kumar",
+      "phoneNo": "9254567887",
+      "address": "Eden Gardens",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "115654",
+      "email": "DeepakKumar09@gmail.com"
+    }
+  ]
+}
