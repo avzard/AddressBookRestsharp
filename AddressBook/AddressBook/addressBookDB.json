@@ -1,0 +1,48 @@
+﻿{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "Abhishek",
+      "lastname": "Jadhav",
+      "phoneNo": "9657726141",
+      "address": "Khojgaon",
+      "city": "Ambarnath",
+      "state": "Maharashtra",
+      "zip": "421501",
+      "email": "abhishek.jdv@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstname": "Jayesh",
+      "lastname": "Mali",
+      "phoneNo": "9044567887",
+      "address": "Kharghar",
+      "city": "New Mumbai",
+      "state": "Maharashtra",
+      "zip": "421501",
+      "email": "jaymali@gmail.com"
+    },
+    {
+      "id": 3,
+      "firstname": "Harshali",
+      "lastname": "Rao",
+      "phoneNo": "8754457887",
+      "address": "houshing board",
+      "city": "Ambarnath",
+      "state": "Maharashtra ",
+      "zip": "998765",
+      "email": "Harshali8888@gmail.com"
+    },
+    {
+      "id": 4,
+      "firstname": "Deepak",
+      "lastname": "Kumar",
+      "phoneNo": "9254567887",
+      "address": "Eden Gardens",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "115654",
+      "email": "DeepakKumar09@gmail.com"
+    }
+  ]
+}
